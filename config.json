@@ -1,0 +1,7 @@
+{
+	"host_map": [
+		"$.tvtropes.org => tvtropes.org",
+		"$.tvtropes.org => www.tvtropes.org",
+		"$.static.tvtropes.org => static.tvtropes.org"
+	]
+}
